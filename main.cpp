@@ -16,8 +16,8 @@
 
 #define LGFX_M5STACK_CORE2
 #define SEALEVELPRESSURE_HPA (1013.25)
-#define TEMPERATURE_OFFSET   -5
-#define HUMIDIDY_OFFSET      14
+#define TEMPERATURE_OFFSET    0
+#define HUMIDIDY_OFFSET       0
 #define LCD_BRIGHTNESS      128
 #define LCD_DIMMER           24
 #define GRAPH_HEIGHT         90
